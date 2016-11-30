@@ -4,3 +4,22 @@ main {
 	margin-right: auto;
 }
 
+.inner-one {
+	background-color: green;
+}
+
+.inner-two {
+	background-color: blue;
+}
+
+.inner-three {
+	background-color: grey;
+}
+
+.inner-four {
+	background-color: black;
+}
+
+.inner-five {
+	background-color: orange;
+}
